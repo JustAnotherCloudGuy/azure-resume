@@ -1,5 +1,5 @@
-# Security Concerns
+# Backend
 
-Add a gitignore file to the backend folder which isn't made by default so you don't commit any secrets to your GitHub account. 
+## Security Concerns
 
-Copy a gitignore file from another directory and move it to your backend api/tests folder. If you do commit secrets rotate your Cosmos DB keys via your cloud provider.
+Move a [gitignore file](https://git-scm.com/docs/gitignore) from another directory to the backend/tests folder which isn't made by default so you don't commit your Cosmos DB key to your GitHub account. If you do commit secrets rotate your Cosmos DB keys via your cloud provider.
