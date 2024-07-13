@@ -28,9 +28,3 @@ I chose this project because it gave me more hands-on experience with different 
 
 I've included these in the [issues](https://github.com/JustAnotherCloudGuy/azure-resume/issues) section of my repo
 
-
-
-
-
-
-
