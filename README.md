@@ -18,11 +18,10 @@ Diagram credit: [madebygps](https://github.com/madebygps) and A Cloud Guru
 
 ## Why I did This Project
 
-I chose this project because it gave me more hands-on experience with different Azure services programming/DevOps tools. 
+I chose this project because it provided the opportunity to learn through trial and error with different Azure services and programming/DevOps tools. 
 
-## Biggest Challenges
-
-
+## Challenges Faced
+A big aspect of learning I gained from this project was deep troubleshooting of issues. For example, one challenge that happened often was fixing errors in my code caused by missing packages/dependencies. Another challenge was that I accidentally made changes directly to my GitHub repo instead of locally, which blocked me from pushing code from my local machine.
 
 ## Future Improvements 
 
